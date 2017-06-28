@@ -1,0 +1,14 @@
+20101027
+Nothing to do
+
+--- Extended ROSA TODO List ---
+
+Everyone - Make sure all function identifiers conforms to the API
+Jonas - Delete task function
+Jonas - Conform kernel functions to API
+Andreas - Interleaving																	
+Andreas - Finalize suspend/resume														DONE-ISH (Finished except if a waited task is suspended and then resumed before waiting time is over)
+Andreas - Modify existing scheduler functions for double linked list					DONE
+Filippo/Xiaoxiang - Commit and push Semaphore file with the interface (API) to GIT
+Filippo/Xiaoxiang - Double linked list for Semaphores
+Filippo/Xiaoxiang - Implement semaphore functions
